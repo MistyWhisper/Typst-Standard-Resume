@@ -9,7 +9,8 @@
 ![Standard Resume](/image/resume.png)
 *某蓝色章鱼女士
 ## 示例
-正如图片所示，这份简历是由单独的几个部分组成的，如果需要更改样式则在源文件中替换对应的模块即可
+1. 简历的字体使用了Times New Roman，如要使用中文，请将字体统一修改为“SimSun”（宋体）
+2. 正如图片所示，这份简历是由单独的几个部分组成的，如果需要更改样式则在源文件中替换对应的模块即可
 ```typst
 // Personal info at the top of the resume
 #let head(
