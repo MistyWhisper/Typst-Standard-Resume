@@ -55,3 +55,6 @@
 该简历的Typst语法构造一定程度上参照了[OrangeX4](https://github.com/OrangeX4)的[Chinese Resume in Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst)项目的写法。非常推荐大家去阅读他在知乎上对于Typst编写的文章：[如何看待 typst?](
 https://www.zhihu.com/question/591143170/answer/3304601296)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MistyWhisper/Typst-Standard-Resume&type=Date)](https://star-history.com/#MistyWhisper/Typst-Standard-Resume&Date)
